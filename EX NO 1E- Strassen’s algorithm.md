@@ -42,8 +42,8 @@ Then merge C11, C12, C21, C22 to get the final matrix C.
 ```
 /*
 Program to implement  Integer Multiplication using Divide and Conquer Approach(Strassen’s algorithm)
-Developed by: Ananda Rakshan K V
-Register Number:  212223230014
+Developed by: DHARANISH MS
+Register Number:  212223240027
 */
 
 import java.util.Scanner;
