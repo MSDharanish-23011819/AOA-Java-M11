@@ -27,8 +27,8 @@ If (m + n) is odd, skip (m + n)/2 elements, then take the next smallest element 
 ```
 /*
 Program to implement  Sorted Array using Divide and Conquer Approach 
-Developed by: Ananda Rakshan K V
-Register Number:  212223230014
+Developed by: DHARANISH MS
+Register Number:  212223240027
 */
 
 import java.util.Scanner;
